@@ -9,7 +9,12 @@ public class Application {
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 
+
 Double d= 1001.100;
+
+
+String s="Rajendra";
+
 int i=10;
 int j=20;
 system.out.println(a+b)
