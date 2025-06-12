@@ -18,6 +18,11 @@ String s="Rajendra";
 int i=10;
 int j=20;
 system.out.println(a+b)
+
+public m1()
+{
+sysout();
+
 	}
 
 }
