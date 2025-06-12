@@ -12,6 +12,7 @@ public class Application {
 
 int i=10;
 int j=20;
+system.out.println(a+b)
 	}
 
 }
