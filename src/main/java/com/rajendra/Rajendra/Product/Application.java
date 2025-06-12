@@ -11,8 +11,9 @@ public class Application {
 
 
 Double d= 1001.100;
-
-
+public m2()
+{
+}
 String s="Rajendra";
 
 int i=10;
